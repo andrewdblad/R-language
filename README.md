@@ -5,8 +5,8 @@ This program maps simple data to a graph using R language. This program taught m
 
 # Development Environment
 
-Vscode
-R language
+- Vscode
+- R language
 
 # Useful Websites
 
